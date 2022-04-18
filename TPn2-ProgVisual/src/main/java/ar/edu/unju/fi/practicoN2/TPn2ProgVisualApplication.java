@@ -10,8 +10,7 @@ public class TPn2ProgVisualApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TPn2ProgVisualApplication.class, args);
-		ProcesoFecha unaFecha = new ProcesoFecha();
-		System.out.println("que onda la pipol");
+		
 	}
 
 }
